@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(196, 245, 252);
+}
+.header {
+    background-color:  rgb(95, 15, 15);
+    color: #fff;
+    height: 170px;
+  }
+  
+  .header-logo {
+    float: left;
+    padding: 10px 40px;
+    font-size : 65px;
+    color:  rgba(5, 255, 38, 0.979);
+  }
+
+  .header-list ul {
+    float: left;
+    padding: 10px 350px;
+    font-size:30px;
+    color: rgba(248, 203, 136, 0.979);
+  }
+  .Roll p{
+    color: rgb(3, 2, 37);
+    padding-left:10px;
+  }
+  .Roll input{
+    color : rgb(230, 61, 49);
+  }
+  .task p{
+    color : rgb(4, 19, 9);
+    font-size: 20px;
+  }
+  
+  .task h1{
+    color : rgb(2, 3, 46);
+    font-size: 50px;
+  }
+  .footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 90px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    font-size: 30px;   
+    padding-bottom: 20px;
+  }
+  
